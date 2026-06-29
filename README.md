@@ -8,8 +8,6 @@ This repository contains my Data Structures and Algorithms (DSA) practice progra
 - Searching
 - Sorting
 - Recursion
-- Patterns
-- Strings
 - Functions
 - Pointers (Coming Soon)
 
@@ -33,7 +31,8 @@ I created this repository to improve my problem-solving skills and strengthen my
 ## 🤝 Connect with Me
 
 - GitHub: https://github.com/anshikashukla5757-ai
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/anshika-shukla-90b434336
+
 
 ---
 ⭐ If you like this repository, feel free to give it a star!
